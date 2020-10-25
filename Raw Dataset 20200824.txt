@@ -1,0 +1,491 @@
+SN	Product Description	Dosage Form	Dosage Form Color	Dosage Form Shape	Dosage Form Marking	Remarks for Dosage Form Marking	Adulterants
+
+1	Li Long Brand Jin Gang Shen Dan 2800mg Capsule (力龙牌金刚神丹)	Capsule	Green	Oblong	Yes	力龙生物	Sildenafil	
+
+2	Jiu Chong Tian Capsule (九重天)	Capsule	Beige ;Red	Oblong	No	 	Sildenafil	
+
+3	Buda Jin Qiang Bu Dao 800 mg Tablet (金枪不倒)	 	Brown	Irregular	No	 	Sildenafil	
+
+4	Kang Xi Da Di Long Yang Dan 1000mg Capsule (康熙大第龍陽丹)	Capsule	Green	Oblong	Yes	金聖力 and two creatures facing one another	Sildenafil	
+
+5	ZhengHao Brand King of Postponing Spray (延时王)	Spray	 	 	No	 	Lignocaine ;Sildenafil	
+
+6	Lang Yi Hao 145mg Tablet (极品狼1号)	 	Blue	Diamond	Yes	DL	Metronidazole ;Sildenafil	
+
+7	Longer Vaigra 1500 mg Capsule (长效伟哥)	Capsule	Blue ;White	Oblong	No	 	Sibutramine ;Sildenafil	
+
+8	Hong Sheng Sheng Wu Brand Li Jia Li (exceed vigra and cialis 3500 mg) Capsule (宏圣生物牌力加力)	Capsule	Green	Oblong	No	 	Sildenafil	
+
+9	Super Power Pills 1800 mg Tablet (力加力)	 	Red	Hexagon	Yes	SUPER	Sildenafil	
+
+10	Li Jia Li (&quot;F + F&quot; Super Enforcement Capsule) (力加力超强生力胶囊)	Capsule	Gold	Oblong	No	 	Sildenafil	
+
+11	Li Long Brand Jin Gang Shen Dan 2800mg Capsule (力龙牌金刚神丹)	Capsule	Green	Oblong	Yes	力龙生物	Sildenafil	
+
+12	Jiu Chong Tian Capsule (九重天)	Capsule	Beige ;Red	Oblong	No	 	Sildenafil	
+
+13	Buda Jin Qiang Bu Dao 800 mg Tablet (金枪不倒)	 	Brown	Irregular	No	 	Sildenafil		
+
+14	Kang Xi Da Di Long Yang Dan 1000mg Capsule (康熙大第龍陽丹)	Capsule	Green	Oblong	Yes	金聖力 and two creatures facing one another	Sildenafil	
+
+15	ZhengHao Brand King of Postponing Spray (延时王)	Spray	 	 	No	 	Lignocaine ;Sildenafil	
+
+16	Lang Yi Hao 145mg Tablet (极品狼1号)	 	Blue	Diamond	Yes	DL	Metronidazole ;Sildenafil	
+
+17	Longer Vaigra 1500 mg Capsule (长效伟哥)	Capsule	Blue ;White	Oblong	No	 	Sibutramine ;Sildenafil	
+
+18	Hong Sheng Sheng Wu Brand Li Jia Li (exceed vigra and cialis 3500 mg) Capsule (宏圣生物牌力加力)	Capsule	Green	Oblong	No	 	Sildenafil	
+
+19	Super Power Pills 1800 mg Tablet (力加力)	 	Red	Hexagon	Yes	SUPER	Sildenafil	
+
+20	Li Jia Li (&quot;F + F&quot; Super Enforcement Capsule) (力加力超强生力胶囊)	Capsule	Gold	Oblong	No	 	Sildenafil	
+
+21	Jin Wei Ge Brand Lang Shen Yi Hao 800mg Tablet [(金威哥) 狼神1號]	 	Red	Oblong	Yes	800	Sildenafil ;Tadalafil	
+
+22	Kangli Brand Le Produit Fin De Aphrodisiaque 2500mg Capsule (康力保健牌壮阳极品一粒速效)	Pill	Black ;Pearl	Oblong& Round	Yes	KANGLI 速效壮阳	Sibutramine ;Sildenafil	
+
+23	Maxidus Capsules	Capsule	 	Oblong	No	 	Methoxsalen ;Sildenafil ;Thiosildenafil	
+
+24	HongKong Ren He Tong Brand Lang Wang 3000mg Tablet (香港仁和堂牌狼王)	 	Blue	Diamond	Yes	DL	Sildenafil	
+
+25	Miraculous Evil Root 1200mg Tablet (神奇魔根)	 	Yellow	Teardrop	Yes	C120	Sildenafil	
+
+26	Mei Guo Lan Jing Ling (美国蓝精灵) (Green)	Capsule	Green	Oblong	No	 	Sibutramine ;Sildenafil	
+
+27	Mei Guo Lan Jing Ling (美国蓝精灵) (Red)	Capsule	Red	Oblong	No	 	Sibutramine ;Sildenafil	
+
+28	Li Long Brand Mei Guo Mo Bang 2500mg Capsule (力龙牌美国魔棒)	Capsule	Green	Oblong	Yes	力龙生物	Sildenafil	
+
+29	Li Long Brand Mei Guo Zhan Shen 2500mg Capsule (力龙牌美国战神)	Capsule	Beige ;Red	Oblong	No	 	Lignocaine ;Sildenafil ;Tadalafil	
+
+30	Ju He Tang Brand Mei Guo Zhan Shen 1000mg Tablet (巨和堂牌美国战神 1000mg)	 	Black	Oblong	Yes	Drawing of a dragon	Sildenafil ;Vardenafil	
+
+31	LV Shou Reduces Fat (绿瘦第二代加强版)	Capsule	Green	Oblong	No	 	Sibutramine	
+
+32	Super Fat Burning Bomb (仟佳俪左旋肉碱减肥胶嚢)	Capsule	Green	Oblong	No	 	Diclofenac ;Ibuprofen ;Piroxicam ;Sildenafil
+
+33	Pai You Ji (吸油基)	Capsule	Green	Oblong	No	 	Ibuprofen ;Sildenafil	
+
+34	Blueberry with Maca Tongkat Ali Extra	Powder (Internal Use)	White	 	No	 	Tadalafil	
+
+35	Super Max Man	Capsule	Green	Oblong	Yes	龙邦生物	Paracetamol ;Sildenafil	
+
+36	Bull's Genital male sexual stimulant	Pill	Yellow	 	No	 	Sildenafil	
+
+37	Bull's Genital Male Sexual Stimulant (三体牛鞭)	Capsule	Brown	Oblong	Yes	SANTI	Sildenafil	
+
+38	Durable Ares Male Sexual Stimulant	 	Maroon	Oval	No	 	Chloramphenicol ;Imidazosagatriazinone ;Sildenafil	
+
+39	Stree Overlord Exceed Vigra and Cialis	Pill	Black ;Yellow	Oval	No	 	Sildenafil	
+
+40	Skinny22 Whitening & Slimming Capsule	Capsule	Pink	Oblong	No	 	Fluoxetine ;Phenolphthalein	
+
+41	Mr Zack Powerbro Anda Lelaki Hebat	Capsule	Yellow	Oblong	No	 	Propoxyphenyl Aildenafil ;Propoxyphenyl Thioaildenafil ;Propoxyphenyl Thiohydroxyhomosildenafil ;Propoxyphenyl hydroxyhomosildenafil	
+
+42	AMACE For Him 300mg/capsule	Capsule	Blue ;White	Oblong	No	 	N-cyclopentyl Nortadalafil	
+
+43	STARKRx Performance Enhancer /Stark-Rx /Maximum Strength Sexual Enhancer	Capsule	Blue ;White	Oblong	No	 	Sildenafil	
+
+44	Qing Guo Su 0.35g Capsule (青果素韵美姿减肥胶囊)	Capsule	Beige	Oblong	Yes	Thai characters	Phenolphthalein ;Sibutramine	
+
+45	Kang Bo Si Jian Fei Jiao Nang 350mg (康柏丝减肥胶囊)	Capsule	Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+46	Li Long Brand Ling Tou Lang 2800mg Capsule (力龙牌领头狼)	Capsule	Blue ;White	Oblong	Yes	力龙生物	Sildenafil		
+
+47	V12 Fruit Slimming	Powder (Internal Use)	 	 	No	 	Sibutramine	
+
+48	VTOX Trim Up Weight Loss Program (威特尔健美奇天然褐藻素)	Powder (Internal Use)	 	 	No	 	Sibutramine	
+
+49	Tianxiong Brand Lion USA 8000mg Tablet (天雄牌美国雄狮)	 	Brown	Oblong	Yes	TX	Sildenafil	
+
+50	LNH Solutions 500mg Capsule	Capsule	White	Oblong	No	 	Sildenafil	
+
+51	Shenwei Brand San Bian Shen Li Wan 3800mg (神威牌三鞭神力丸3800mg)	 	Blue	Round	Yes	&quot;Good&quot; on one side and a picture of a wolf&#39;s head on the other side	Sibutramine ;Sildenafil	
+
+52	OMAX Mutual Slimming Pills 0.3g (Day) (澳美斯超能燃脂素瘦身丸(日间装))	Capsule	White	Oblong	Yes	reduce weight	Phenolphthalein ;Sibutramine	
+
+53	OMAX Mutual Slimming Pills 0.3g (Night) (澳美斯超能燃脂素瘦身丸(夜间装))	Capsule	Blue	Oblong	Yes	Pearl white	Phenolphthalein ;Sibutramine	
+
+54	MaxGain+ 500mg Capsule	Capsule	White	Oblong	No	 	Sildenafil	
+
+55	MaxHerbal No. 1 Dietary Supplement for Men 500mg Capsule	Capsule	White	Oblong	No	 	Sibutramine ;Sildenafil	
+
+56	XXS Advance xtraxtrasmall	Capsule	Pink	Oblong	No	 	Diphenhydramine ;Frusemide	
+
+57	GS Gorgeousleem Advanced	Capsule	Black ;Maroon	Oblong	No	 	Sibutramine ;Spironolactone	
+
+58	Figure-up 100% Natural	Capsule	Green ;Light green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+59	Surut Ayu Jamu Herbal Ramuan Alami	Capsule	Red ;White	Oblong	No	 	Sibutramine	
+
+60	Beautea Slim Fat Burner for Weight Loss 10 Days Program	Capsule	Pink	Oblong	No	 	Sibutramine	
+
+61	RO Slim Booster	Powder (Internal Use)	Brown	Not applicable	No	 	Sibutramine	
+
+62	Li Da Weight Loss Capsule	 	Green	Oblong	No	 	Sibutramine	
+
+63	Mzac Beautycare (Mzac Bodyshape)	Capsule	Pink	Oblong	No	 	Sibutramine	
+
+64	24Hrs Burn	Capsule	Brown	Oblong	No	 	Sibutramine	
+
+65	BSH Body Slim Herbal	Capsule	Green	Oblong	No	 	Sibutramine	
+
+66	SHEN QI DAN BAI NIAN CAO YAO '神奇丹 百年草药’	Capsule	Brown	Oblong	No	 	 	
+
+67	Ricalinu	Capsule	Black ;Yellow	Oblong	No	 	Meloxicam ;Tramadol	
+
+68	Liu Mei Brand Natural Slimming 450mg Capsule (柳美牌自然瘦)	Capsule	Pearl	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+69	Tusuk Jari Asam Urat Untuk Pria Dan Wanita Capsule	Capsule	Beige ;Red	Oblong	Yes	Red - AM JAYA MALANG, Beige - TUSUK JARI	Dexamethasone ;Diclofenac ;Paracetamol	
+
+70	King Brand Black King 1800mg Capsule (黑金刚)	Capsule	Gold	Oblong	Yes	升阳胶囊	Sildenafil	
+
+71	Super-Slim Capsule (减肥果绿色瘦身胶囊)	Capsule	Green ;White	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+72	MMC Mahman Capsules (Maxman 3000mg Capsules)	Pill	Black ;White	Oblong& Round	Yes	艾力达生物	Phenolphthalein ;Sibutramine ;Sildenafil	
+
+73	Aidi Brand Wodibo Capsule (艾迪牌五便宝胶囊)	Capsule	Blue	Oblong	No	 	Sildenafil ;Tadalafil	
+
+74	XP Tongkat Ali Supreme For Men 500mg Capsule	Capsule	Beige	Oblong	No	 	Tadalafil	
+
+75	Tablet Kuat Dan Tahan Lama Khusus Untuk Pria Dewasa 5x Lebih Dahsyat	 	Grey	Round	No	 	Chlorpheniramine ;Diclofenac ;Piroxicam	
+
+76	Top Jaya Sakti Gemuk Sehat Kapsul	Capsule	Black ;Red	Oblong	Yes	JAYA SAKTI	Cyproheptadine ;Dexamethasone	
+
+77	Obat Asam Urat Flu Tulang Super Untuk Pria Dan Wanita Capsule	Capsule	Maroon	Oblong	No	 	Dexamethasone ;Diclofenac	
+
+78	LAMI Kapsul	Capsule	Orange ;Red	Oblong	Yes	LAMI (on both red and orange portions of capsule)	Sibutramine	
+
+79	LANGSING ALAMI Kapsul	Capsule	Orange ;Red	Oblong	Yes	LAMI (on both red and orange portions of capsule)	Sibutramine	
+
+80	4X Lebih Dahsyat Obat Kuat & Tahan Lama Urat Madu Capsule	Capsule	Red	Oblong	Yes	URAT MADU	Sildenafil	
+
+81	Obat Kuat & Tahan Lama Khusus Pria Dewasa Maximal Capsule	Capsule	Red	Oblong	Yes	Super (on both parts of the capsule)	Sildenafil	
+
+82	Power V Extra Strong Tongkat Ali 500mg Kapsul	Capsule	Transparent	Oblong	No	 	Sildenafil	
+
+83	Sendi-Plus 250mg Capsule	Capsule	Black	Oblong	No	 	Dexamethasone ;Indomethacin ;Piroxicam	
+
+84	Seki Sehat Pria Aprodisiak & Anti Impotensi Sami Aji Capsule	Capsule	Red	Oblong	No	 	Sildenafil	
+
+85	Laboratory Formula Healthcare Series MENERGY™ M-Essence 450mg Capsule	Capsule	Transparent	Oblong	No	 	Acetic Acid ;Acetildenafil	
+
+86	Sin Gang San Langsing Ayu Kapsul Arma	Capsule	Orange	Oblong	No	 	Fenfluramine ;Sibutramine	
+
+87	Kangli Brand Tian Xia Di Yi Bang 2500mg Capsule (康力牌天下第一棒)	Pill	Black ;Pearl	Oblong& Round	Yes	KANGLI 速效壮阳	Diclofenac ;Phenolphthalein ;Sibutramine ;Sildenafil ;Strychnine	
+
+88	Xiang Shou Shou Shen Guo Shu Xian Wei Capsule (享瘦™瘦身果蔬纤维)	Capsule	Blue ;Green ;White	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+89	Jinglida So Young Formula 200mg Tablet	 	Green	Round	No	 	Aminotadalafil	
+
+90	Power-Plus P Capsule (康乐宝)	Capsule	Blue ;White	Oblong	No	 	Chloropretadalafil ;Tadalafil	
+
+91	Power-Plus S 485mg Capsule	Capsule	Green ;White	Oblong	No	 	Sibutramine	
+
+92	Calixir Labs Beline Capsule (百灵宝)	Capsule	Green	Oblong	No	 	Chlorpheniramine ;Frusemide ;Mephentermine ;Piroxicam	
+
+93	Strong Boy	 	Brown	Round	Yes	USA on one side / PA NT HE R on the other side	Sildenafil	
+
+94	Wei Ge 99 2800mg Capsule (偉哥99)	Capsule	Blue ;White	Oblong	Yes	力龙生物	Sildenafil	
+
+95	Baolong Brand Wu Ye Shen Clalis Capsule (寳龍牌五夜神胶囊)	Capsule	Green	Oblong	No	 	Sildenafil	
+
+96	Tian Long Brand Te Zhi Wu Ye Shen Sheng Jing Pian 2000mg Tablet (天龙牌特制五夜神生精片)	 	Yellow	Teardrop	Yes	TL	Sildenafil	
+
+97	Jin Sheng Li Brand America Brother 1000mg Tablet (金聖力牌美国威哥王)	 	Blue	Diamond	Yes	VAG	Sildenafil	
+
+98	Jian Min Bao Jian Brand Wolf 2000mg Capsule (健民保健极品狼胶囊)	Capsule	Red	Oblong	No	 	Sildenafil	
+
+99	Li Long Brand Wu Di Wei Ge 2800mg Capsule (力龙牌无敌伟哥)	Capsule	Blue ;White	Oblong	Yes	力龙生物	Sildenafil	
+
+100	Wake Spray (金刚壹號)	Spray	 	 	No	 	Lignocaine	
+
+101	Power 1 Singapore Brand Chao Nong Suo Pian Weibawang 800mg (强劲威霸王五鞭粒)	 	Blue	Diamond	Yes	500mg	Sildenafil	
+
+102	Li Long Brand Xi Yu Shen Bao 2800mg Tablet (力龙牌西域肾宝)	 	Brown	Teardrop	Yes	力龙	Sildenafil	
+
+103	Xing Ba Wang Capsule (性霸王)	Capsule	Green	Oblong	Yes	力龙生物	Sildenafil	
+
+104	Xi Zang La Sa 500mg Tablet (西藏拉萨)	 	Blue	Oblong	Yes	500mg	Sildenafil	
+
+105	Ye Tai Yang Jiao Nang 1800mg (野太陽胶囊)	Capsule	Beige ;Red	Oblong	No	 	Sildenafil	
+
+106	Baolong Brand Yilishen 2000mg Tablet (寳龍牌蚁力神片剂)	 	Yellow	Oval	Yes	Drawing of a kangaroo	Sildenafil	
+
+107	Di Liu Dai Yi Pao Dao Tian Liang 2000mg Yan Shi Jiao Nang (第六代一炮到天亮延时胶囊)	Capsule	Black ;Red	Oblong	Yes	宏源制造	Sildenafil ;Tadalafil	
+
+108	Yin De Kuai 2280mg Capsule (硬得快)	Capsule	Red ;Yellow	Oblong	No	 	Sildenafil	
+
+109	Ying Xiong Sheng Li Pian 800mg Tablet (英雄生力片)	 	Blue	Irregular	No	 	Sildenafil	
+
+110	Yi Li Ting Capsule (一粒挺)	Capsule	Blue ;White	Oblong	No	 	Sildenafil	
+
+111	Shen Wei Brand Yi Li Wang 2000mg Tablet (神威牌蚁力王)	 	Orange	Oval	Yes	Black God	Sildenafil	
+
+112	Di Er Dai Ye Lang Shen 2000mg Capsule (第二代夜狼神)	Capsule	Maroon	Oblong	No	 	Sildenafil	
+
+113	Hong Sheng Brand Ye Ye Bu Dao 2500mg Tablet (宏圣牌夜夜不倒)	 	Yellow	Teardrop	Yes	C100	Sildenafil	
+
+114	Sheng Yang Brand Yi Li OK Capsule (升阳牌一粒OK)	Capsule	Gold	Oblong	Yes	升阳胶囊	Sildenafil	
+
+115	Sheng Yang Brand Zhuang Gen Ying Da Wang 800mg Tablet (升阳牌壯根硬大王)	 	Yellow	Teardrop	Yes	C80	Sildenafil	
+
+116	Tian Long Brand Yi Li Bo Qian Jin Capsule (天龙牌一粒博千金)	Capsule	Orange ;White	Oblong	No	 	Sildenafil	
+
+117	Zengcuzengda Yan Shi Pian 500mg Tablet (增粗增大延时片)	 	Blue	Oblong	Yes	500mg	Sildenafil	
+
+118	Kang Li Brand Zhong Hua Niu Bian 1500mg Capsule (康力牌中华牛鞭 1500mg)	Capsule	Grey ;Orange	Oblong	No	 	Glibenclamide ;Lignocaine ;Norethisterone ;Sibutramine ;Sildenafil ;Tadalafil	
+
+119	Sheng Yang Brand Zhong Hua Niu Bian 800mg Tablet (升阳牌中华牛鞭)	 	Yellow	Teardrop	Yes	C80	Lignocaine ;Sildenafil	
+
+120	Tian Long Brand Di Wu Dai Zhuang Gen Jing Hua Su Sheng Jing Jiao Nang 2000mg (天龙牌第五代壯根精华素生精胶囊)	Capsule	Red	Oblong	Yes	天龙制造	Sibutramine ;Sildenafil ;Tadalafil	
+
+121	Tianxiong Brand Zhuang Yang Wang 3000mg Capsule (天雄牌壯陽王)	Capsule	White	Oblong	Yes	天雄制造	Sildenafil ;Tadalafil	
+
+122	Sunny Brand Zang Wang Xiong Ying Capsule (陽光牌藏王雄鹰)	Capsule	Blue	Oblong	No	 	Sildenafil ;Tadalafil	
+
+123	Xinyuan Brand Zang Mi Shen Wei 1280mg Capsule (鑫源牌藏秘神威）	Capsule	Green	Oblong	No	 	Sildenafil	
+
+124	Jin Sheng Li Brand Zhong Hua Niu Bao1800mg Pill (金聖力牌中華牛寳)	Pill	Black	Round	No	 	Sildenafil ;Tadalafil	
+
+125	Aloe Vera Waste Discharging & Beauty 250mg Capsule (芦荟排毒养颜胶囊)	Capsule	Green	Oblong	No	 	Sibutramine	
+
+126	Bo Er Gen 0.3g Capsule (勃尔根胶囊)	Capsule	Red	Oblong	No	 	Sildenafil ;Tadalafil	
+
+127	Brazil Basehr Nuts 250mg Capsule (第2代巴沙瘦身果)	Capsule	Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+128	Drpharm Brand Emperor Capsule 0.5g (博龍牌黄帝聖丹膠囊)	Capsule	Blue ;Transparent	Oblong	Yes	黄帝聖丹 (SUPER)	Sildenafil	
+
+129	expressherbals No.1 Mens Supplement Worldwide 500mg Capsule	Capsule	White	Oblong	No	 	Sildenafil		
+
+130	Yi Li Shen Huichunruyi Jiaonang 0.25g (1力神回春如意胶囊)	Capsule	Black ;Red	Oblong	No	 	Sildenafil	
+
+131	Aliba (阿里巴巴男士性功能专用)	Capsule	Blue	Oblong	Yes	阿里巴巴	Sildenafil ;Tadalafil ;Vardenafil	
+
+132	Kangli Bao Jian Niu Bian Da Bu Wan 1.5g (康力保健牛鞭大补丸 1.5g)	Pill	Black	Oval	No	 	Sildenafil	
+
+133	DZ Garcinia Herbal Plus 500mg	Capsule	Beige	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+134	D' Trim Obesity Solution	Capsule	Red ;Light Pink	Oblong	No	 	Sibutramine	
+
+135	MM Malia Mellia XXS xtraxtrasmall	Capsule	Grey ;White	Oblong	No	 	Sibutramine	
+
+136	Clinic K	Capsule	Blue	Oblong	No	 	Sibutramine	
+
+137	XXS xtraxtrasmall	Capsule	Green ;Orange	Oblong	No	 	Sibutramine	
+
+138	Sheng Yang Brand Qiang Shen Xiao Jin Wan 3g (升阳牌强肾小金丸)	Pill	Black	Round	No	 	Sildenafil	
+
+139	HongKong Ren He Tong Brand Real Man 3000mg Tablet	 	Yellow	Diamond	Yes	DL	Sildenafil	
+
+140	Sheng Yang Brand Super Penis 1800mg Capsule (升阳牌超级男根)	Capsule	Gold	Oblong	No	 	Sildenafil	
+
+141	Li Long Brand Shen Bai Jin Sheng Li Jiao Nang 2800mg (力龙牌腎白金生力胶囊)	Capsule	Blue ;White	Oblong	Yes	力龙生物	Sildenafil	
+
+142	Tong Le Tang Brand America Viagia 2000mg Tablet (同乐堂牌美国战神)	 	Brown	Oblong	Yes	Drawing of a dragon	Piperiacetildenafil ;Sildenafil ;Vardenafil	
+
+143	Baolong Brand USA Zhanshen 2000mg Capsule (寶龍牌美国战神)	Capsule	Maroon	Oblong	No	 	Sildenafil	
+
+144	Tai He Tang Brand Mei Guo Zhan Shen 1800mg Tablet (太和堂牌美国战神)	 	Brown	Oblong	Yes	Viger	Sildenafil	
+
+145	Mo General (猛男魔根)	 	Beige	Teardrop	Yes	C50	Sildenafil	
+
+146	Mei Guo Zhan Shen Wai Yong Shen You (美国战神外用神油)	Liquid (External Use)	Brown	 	No	 	Lignocaine ;Verapamil	
+
+147	Midnight Express Men Lasting Cologne	Liquid (External Use)	Brown	 	No	 	Lignocaine	
+
+148	Meng Hu Bei Zeng Capsule (猛虎倍增)	Capsule	Red	Oblong	No	 	Sildenafil	
+
+149	Migino Capsule (美人露)	Capsule	Transparent	Oblong	No	 	Lignocaine	
+
+150	Luquan Brand Nangen Zengzhangsu 0.4g Capsule (鹿泉牌男根增长素)	Capsule	Beige ;Red	Oblong	No	 	Sildenafil	
+
+151	Jin Huang Jin Brand Nan Gen Jing Hua Su 1800mg Capsule (金黄金牌男根精华素)	Capsule	Blue ;White	Oblong	No	 	Sildenafil	
+
+152	Power 1 Walnut 100mg Tablet (动力一号核桃素片) (Green)	 	Green	Oblong	Yes	P1S-100	Sildenafil	
+
+153	Power 1 Walnut 500mg Tablet (动力一号核桃素片) (Pink)	 	Pink	Oblong	Yes	P1S-100	Glibenclamide ;Sildenafil	
+
+154	Power 1 Walnut 500mg Tablet (动力一号核桃素片) (Blue)	 	Blue	Oblong	Yes	P1S-100	Sildenafil	
+
+155	Posh For Men Only Capsule (寳士情人秘膏)	Liquid (External Use)	Transparent	Oblong	No	 	Lignocaine	
+
+156	Jin Sheng Li Brand Qiang Gen Bao Jiao Nang 500mg (金聖力牌强根宝胶囊)	Capsule	Green	Oblong	No	 	Sildenafil	
+
+157	YiZheng Brand Super Cialis 1600mg Tablet (一正超级西力士)	 	Yellow	Teardrop	Yes	C80	Sildenafil	
+
+158	Natural Wei-Ge (天然威哥)	Capsule	Transparent	Oblong	No	 	Acetic Acid ;Acetildenafil ;Carbodenafil	
+
+159	Tianxiong Brand Super Is Fierce Male 8000mg Capsule (天雄牌超级猛男)	Capsule	White	Oblong	Yes	天雄制造	Sildenafil	
+
+160	Jin Sheng Li Shi Bian Wang 1000mg Tablet (金聖力十鞭王)	 	Blue	Diamond	Yes	VAG	Sildenafil	
+
+161	Santi Scalper Penis Erection 0.3g Capsule (三體牛鞭勃動力胶囊)	Capsule	Blue ;White	Oblong	Yes	勃动力 (Vigorous)	Glibenclamide ;Sibutramine ;Sildenafil	
+
+162	Xin Yi Dai San Ti Niu Bian Bo Dong Li Jiao Nang 0.3g (新一代三體牛鞭勃動力膠囊)	Capsule	Blue ;White	Oblong	Yes	勃动力 (Vigorous)	Sildenafil	
+
+163	Samsu Super Oil	Liquid (External Use)	Brown	 	No	 	Lignocaine	
+
+164	18 Spring Gel (十八春催情缩阴精华素)	Gel	Transparent	 	No	 	Sildenafil	
+
+165	Sheng Jing Pian (生精片)	 	Black	Teardrop	Yes	TL	Sildenafil	
+
+166	Sex Fairy Female Sexual Appetite Powder 3g (性精灵)	Powder (Internal Use)	White	 	No	 	Lignocaine	
+
+167	Spanish Fly 10ml Liquid	Liquid (Internal Use)	 	 	No	 	Tadalafil	
+
+168	Tanduk Rusa Kuat Lelaki Approdisiak & Anti Impotensi 500mg Kapsul	Capsule	Maroon	Oblong	No	 	Sildenafil	
+
+169	Tian Di Ying Xiong 1200mg Capsule (天地英雄)	Capsule	Orange ;White	Oblong	No	 	Sildenafil	
+
+170	Shen Wei Brand Tian Di Ying Xiong 2000mg Capsule (神威牌天地英雄)	Capsule	Pink	Oblong	No	 	Sildenafil	
+
+171	Tosan Splay Daito	Liquid (Internal Use)	Yellow	 	No	 	Lignocaine	
+
+172	Vimax 700mg Capsule (增大丸)	Capsule	Blue ;White	Oblong	No	 	Sildenafil	
+
+173	Vitgo Oil	Liquid (External Use)	Brown	 	No	 	Lignocaine	
+
+174	Li Zhi Yuan Brand Qiang Jing Wei Ge Wang Wu Bian Li 800mg Tablet (力之源牌强劲威哥王五鞭粒)	 	Blue	Diamond	Yes	800mg	Lignocaine ;Sildenafil ;Tadalafil ;Theophylline ;Vardenafil	
+
+175	Africa Black Ant 2500mg Capsule (非洲黑蚁王)	Capsule	White	Oblong	Yes	金聖力	Imidazosagatriazinone ;Sibutramine ;Sildenafil ;Tadalafil	
+
+176	American Moxman (美国魔根)	Capsule	Red ;White	Oblong	No	 	Sibutramine ;Sildenafil	
+
+177	Baolong Brand Ai Jia Ai 3000mg Capsule (寶壟牌爱加爱)	Capsule	Black ;Red	Oblong	No	 	Sildenafil	
+
+178	Amrih Sehat Ramping Jelita Shio Lie Ta 500mg Capsule (必力大)	Capsule	Orange	Oblong	No	 	Sibutramine	
+
+179	Obat Tradisional Amrih Sehat Asam Urat Untuk Pria Dan Wanita Capsule	Capsule	Red ;Yellow	Oblong	Yes	JAYA SAKTI	Dexamethasone ;Paracetamol ;Phenylbutazone	
+
+180	America Cowboy 500mg Capsule (美國牛仔胶囊)	Capsule	Green	Oblong	No	 	Sildenafil	
+
+181	Maxman U.S.A. America Vigra 1800mg Tablet	 	Yellow	Triangle	Yes	HF	Sibutramine ;Sildenafil	
+
+182	Ali Baba	 	Brown	 	No	 	Lignocaine	
+
+183	Huo Luo Jing Dan (活絡金丹)	Capsule	Red	Oblong	No	 	Dexamethasone ;Indomethacin ;Prednisolone	
+
+184	Balsam Pear Fat Loss Capsule (苦瓜清脂减肥胶囊)	Capsule	Maroon	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+185	Tianxiong Brand Ba Wang Long 3000mg Capsule (天雄牌霸王龙)	Capsule	White	Oblong	Yes	天雄制造	Sibutramine ;Sildenafil	
+
+186	Bai Wei Tablet (百威)	 	Black	Triangle	Yes	HF	Sildenafil	
+
+187	Bushenzhuangyang Capsule	Capsule	Pink	Oblong	No	 	Sildenafil	
+
+188	Chong Cao Bu Jing Wan 1g (虫草生精丸)	Pill	Black	Round	No	 	Sildenafil ;Tadalafil	
+
+189	Champ	Capsule	White	Oblong	No	 	Lignocaine	
+
+190	Chong Cao Lu Bian Wan 9g (蟲草鹿鞭丸)	Pill	Black	Round	No	 	Sildenafil	
+
+191	Canada King of Sea Dogs 800 mg Capsule (加拿大海狗王)	Capsule	Green	Oblong	No	 	Sibutramine ;Sildenafil	
+
+192	Cattle Capsule (牛寳膠囊)	Capsule	Blue ;White	Oblong	Yes	牛寳 Cattle	Sildenafil	
+
+193	Jin Sheng Li Brand China Vigers 2500mg Capsule (金聖力牌中華偉哥)	Capsule	Green	Oblong	Yes	金聖力 and two creatures facing one another	Sildenafil	
+
+194	De Guo Jin Gang Pen (德国金刚喷)	Liquid (External Use)	Brown	 	No	 	Lignocaine	
+
+195	Tian Long Brand Da Di Yong Shi Sheng Jing Pian 2000mg (天龙牌大地勇士生精片)	 	Brown	Teardrop	Yes	TL	Sildenafil	
+
+196	Li Long Brand De Guo Hei Jin Gang 2800mg Tablet (力龙牌德国黑金刚)	 	Black	Teardrop	Yes	C200	Sildenafil	
+
+197	Dong Fang Bu Bai 800mg Tablet (东方不败强神粒)	 	Brown	Diamond	Yes	800mg	Sildenafil	
+
+198	Shen Long Sheng Wu Brand Ding Chuan Tian 1200mg Capsule (神龙生物牌顶穿天)	Capsule	Gold	Oblong	Yes	神龙生物	Sildenafil	
+
+199	French Silver Fox 2800mg Powder (法国银狐)	Powder (Internal Use)	White	 	No	 	Lignocaine	
+
+200	Li Long Brand Xin Yi Dai Hei Ma Yi Wang 2800mg Capsule (力龙牌新一代黑螞蟻王2800mg)	Capsule	Red ;White	Oblong	Yes	力龙生物	Sildenafil	
+
+201	Jian Min Bao Jian Brand HuaTuo 2000mg Capsule (健民保健牌华佗神丹)	Capsule	Red	Oblong	No	 	Sildenafil ;Tadalafil	
+
+202	Huang Wei Lu Rong 0.5g Capsule (皇威鹿茸胶囊)	Capsule	Red	Oblong	No	 	Glibenclamide ;Sibutramine ;Sildenafil ;Tadalafil	
+
+203	Red Spider 5ml (红蜘蛛女性口服液)	Liquid (Internal Use)	Transparent	 	No	 	Sildenafil ;Vardenafil	
+
+204	Li Long Brand Hao Gong Fu 2500mg Tablet (力龙牌好功夫)	 	Beige	Teardrop	Yes	C100	Sildenafil	
+
+205	Sheng Yang Brand Huang Di Sheng Dan 3g pill (升阳牌黄帝聖丹)	Pill	Black	Round	No	 	Sildenafil	
+
+206	High-Powered Spray (威の猛男用延时喷剂)	Spray	 	 	No	 	Lignocaine	
+
+207	India God Lotion Spray （印度神油）	Spray	 	 	No	 	Procaine	
+
+208	JianBu HuQian Wan Capsule (健步虎潛丸)	Capsule	Red ;White	Oblong	Yes	健步虎潛丸	Chlorpheniramine ;Dexamethasone ;Frusemide ;Pheniramine	
+
+209	JinMaoShiWang 1500mg Tablet (金毛狮王片)	 	Brown	Teardrop	Yes	SV	Sildenafil	
+
+210	HR Brand Jing Ba Su Bo Jiao Nang 1800mg (HR牌劲霸速勃胶囊)	Capsule	White	Oblong	No	 	Sildenafil	
+
+211	Kangli Brand JinBa Men 2500mg (康力牌劲霸男人)	Pill	Black ;Gold	Oblong& Round	Yes	KANGLI 速效壮阳	Lignocaine ;Naproxen ;Sildenafil	
+
+212	Heng Yue Brand Jiu Bian Li 600mg Tablet (恒悦牌九鞭粒)	 	Blue	Diamond	Yes	九鞭粒 600mg	Sildenafil	
+
+213	S-Shape II 0.3g Capsule (瘦身の语 III)	Capsule	Pink	Oblong	No	 	Sibutramine	
+
+214	Stree Overlord 4800mg Capsule (街头霸王)	Capsule	Orange	Oblong	Yes	Tian Bao (天宝)	Sildenafil	
+
+215	Mei Guo Xin Yi Dai ShenLiWeiGe 2800mg Capsule (美国新一代神力伟哥)	Capsule	Blue ;White	Oblong	No	 	Metronidazole ;Sildenafil ;Tadalafil	
+
+216	Sliming Essence 500mg Capsule (火速消脂精華膠囊)	Capsule	Maroon	Oblong	No	 	Sibutramine	
+
+217	Teng Huang Guo Shou Shen Jin Fu 0.3g Capsule (藤黄果瘦身紧肤胶囊)	Capsule	Orange ;White	Oblong	No	 	Sibutramine	
+
+218	VPXL 500mg Capsule (White)	Capsule	White	Oblong	No	 	Sibutramine ;Sildenafil ;Tadalafil	
+
+219	Shenwei Brand Maxman Tablets 3800mg (神威牌 MaxMan 3800mg)	 	Blue	Round	Yes	&quot;Good&quot; on one side and a picture of a wolf&#39;s head on the other side	Sibutramine ;Sildenafil	
+
+220	Ding Xin Brand YiLiShen 0.4g Capsule (鼎鑫牌蚁力神胶囊)	Capsule	Grey ;Orange	Oblong	Yes	蚁力神	Sildenafil	
+
+221	Yu Mei Tang Shou Shen Jin Fu Xian Xian Jian Fei Jiao Nang 300mg (御美堂瘦身紧肤纤纤减肥胶囊(第三代加强型))	Capsule	Orange ;White	Oblong	No	 	Sibutramine	
+
+222	Zang Jing Dan (藏精丹)	Pill	Black	Round	No	 	Sildenafil	
+
+223	Sheng Yuan Brand Zang Niu Bian Huo Li Jiao Nang 800mg (圣源牌藏牛鞭活力胶囊)	Capsule	Maroon	Oblong	No	 	Phenolphthalein ;Sibutramine ;Sildenafil	
+
+224	Zhen De Shou Fat Loss Capsule 250mg (神仙叶牌真得瘦清脂胶囊)	Capsule	Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+225	Tian Long Brand Di Liu Dai Zhuang Gen Jing Hua Su Sheng Jing Jiao Nang 5000mg (天龙牌第六代壯根精华素生精胶囊)	Capsule	Red	Oblong	Yes	天龙制造	Sildenafil ;Tadalafil	
+
+226	Oto Brand Qing Tian Zhu Capsule (Oto擎天柱牌健力胶囊)	Capsule	Red	Oblong	Yes	健阳保健	Tadalafil	
+
+227	SNE AMBERINE Capsules (瘦美精华)	Capsule	Transparent	Oblong	No	 	Metformin ;Sibutramine	
+
+228	Tianlong Brand Sheng Wu Gong Ting Sheng Bao 2000mg Capsules (天龙牌生物宫廷圣宝2000mg)	Capsule	Blue	Oblong	Yes	天龙制造	Sildenafil ;Tadalafil	
+
+229	Jin Sheng Li Brand Huang Jin Shen Bao 3g (金聖力牌黄金腎寳3g)	Capsule	Green	Oblong	Yes	金聖力 and two creatures facing one another	Sibutramine ;Sildenafil ;Tadalafil	
+
+230	Black Ant 4600mg Capsules (黑蚂蚁4600mg)	Capsule	Pearl	Oblong	No	 	Sildenafil ;Tadalafil	
+
+231	Bio-Lissom Fat-Reducing Capsule (輕盈素瘦身膠囊)	Capsule	Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+232	Han Mei Tang Brand Zuo Xuan Rou Jian L-Carnitine 400mg Capsules (瀚美堂左旋肉碱)	Capsule	Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+233	Man Up Now Capsules	Capsule	Red	Oblong	No	 	Dimethylsildenafil ;Thiodimethylsildenafil	
+
+234	XiangYing (享硬瑪卡濃缩片)	 	Yellow	Oblong	Yes	maca on one side and 享硬 on the other side	Sildenafil ;Tadalafil	
+
+235	Ji Yin Yu Gen (基因育根™)	Capsule	Red	Oblong	No	 	Diclofenac ;Sibutramine ;Sildenafil ;Tadalafil	
+
+236	Qing Tian Zhu Tablets (擎天柱健力片剂)	 	Brown	Diamond	Yes	OTO	Hydroxythiohomosildenafil	
+
+237	Shou Fu Ti Tun Jian Fei Jiao Nang (收腹提臀减肥胶囊)	Capsule	Green ;White	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+238	You En Li Zi Y.D.L.Z Zuo Xuan Rou Jian Ju Jue Pian L-Carnitine (优恩丽姿Y.D.L.Z 左旋肉碱咀嚼片)	 	Brown	Oblong	No	 	Caffeine ;Phenolphthalein ;Sibutramine	
+
+239	Aulura™ (奥露娜™ 减肥胶囊)	Capsule	Gold ;Green	Oblong	No	 	Phenolphthalein ;Sibutramine	
+
+240	Li Da Dai Dai Hua Jiao Nang (丽达代代花胶囊)	Capsule	Green	Oblong	Yes	达立™ on one side and 0871-8335000 on the other side	Phenolphthalein ;Sibutramine ;Sildenafil	
+
+241	Reduce Weight Fruta Planta (水果植物减肥胶囊)	Capsule	Green ;White	Oblong	No	 	Caffeine ;Phenolphthalein ;Sibutramine	
+
+242	Bao Ling Capsules (保灵丸) Advance Finger Press Therapy	Capsule	Red	Oblong	No	 	Chlorpheniramine ;Frusemide ;Piroxicam	
+
+243	Revival for Men Only	Capsule	Transparent	Oblong	No	 	N-cyclopentyl Nortadalafil ;Tadalafil	
+
+244	Montalin Jamu Pegal Linu Dan Asam Urat	Capsule	Red	Oblong	No	 	Paracetamol ;Piroxicam	
+
+245	Black Ant King (黑蚁王)	 	Green	Oval	Yes	CPM	Sildenafil	
